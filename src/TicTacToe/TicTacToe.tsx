@@ -1,5 +1,5 @@
 import { useState } from "react";
-import * as styles from "./TicTacToe.module.css";
+import styles from "./TicTacToe.module.css";
 
 import {
   generateBoard,
