@@ -2,6 +2,7 @@
   "name": "tic-tac-toe",
   "private": true,
   "version": "0.0.0",
+  "homepage": "/vitest-tic-tac-toe-experiment/",
   "type": "module",
   "scripts": {
     "dev": "vite",
